@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
+title: 博客标题
+author: Rhine
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  我算了一下，如果每个平台都是最高画质上传，至少需要 56Mbps 的上行带宽，一般的家用宽带根本达不到。上海的 100M 光纤上网，上行最多好像只能到 10Mbps。
 
 # social links
 twitter_username: your-twitter-handle
@@ -12,4 +10,4 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minima
